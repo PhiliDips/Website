@@ -142,3 +142,21 @@ figcaption {
     background-color: limegreen;
     color: white;
 }
+
+.videogames a {
+    background-color: darkorange;
+    text-align: center;
+    overflow: hidden;
+    color:white;
+    font-size: 25px;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+}
+
+.videogames a:hover {
+    background-color: orange;
+    color: white;
+}
+
